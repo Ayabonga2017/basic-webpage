@@ -1,6 +1,6 @@
 img {
   border-radius:60%;
-  align="middle";
+  align="center";
 }
 p.clear{
   clear:both;
@@ -55,6 +55,7 @@ p {
   float: right;
   height: 335px;
   width: 335px;
+  align="center";
 
 }
 .heading {
