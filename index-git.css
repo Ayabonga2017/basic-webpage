@@ -75,6 +75,8 @@ p {
 
 .myImage {
   float: center;
+   height: 300px;
+  width: 300px;
   align="center"
 }
 .heading {
