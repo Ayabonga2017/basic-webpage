@@ -74,11 +74,15 @@ p {
 }
 
 .myImage {
-  float: center;
-   height: 250px;
-  width: 250px;
-  align="center"
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  height: 300px;
+  width:300px;
 }
+.col-10 {
+    width: 79.33%;
+  }
 .heading {
   float:left;
     align="center";
